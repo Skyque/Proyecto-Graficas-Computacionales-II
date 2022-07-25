@@ -1,0 +1,135 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (Terreno.vcxproj, TerrenoSky.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  TerrenoSkyBill.cpp
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\TerrenoRR.h(208,85): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\TerrenoRR.h(310,63): warning C4244: 'argumento': conversión de 'int' a 'FLOAT'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\TerrenoRR.h(310,1): warning C4305: 'argumento': truncamiento de 'double' a 'FLOAT'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\TerrenoRR.h(369,1): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\TerrenoRR.h(400,1): warning C4305: 'argumento': truncamiento de 'double' a 'FLOAT'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\TerrenoRR.h(463,21): warning C4018: '<': no coinciden signed/unsigned
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\TerrenoRR.h(465,19): warning C4018: '<': no coinciden signed/unsigned
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\Camara.h(46,63): warning C4244: 'argumento': conversión de 'int' a 'FLOAT'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\Camara.h(46,1): warning C4305: 'argumento': truncamiento de 'double' a 'FLOAT'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\SkyDome.h(310,30): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\Billboard.h(397,14): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\Billboard.h(398,15): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2662,52): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2662,64): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2662,76): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2662,88): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2663,52): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2663,64): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2663,76): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2664,52): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2664,64): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2664,76): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2665,52): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2666,64): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2667,76): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2668,88): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2689,46): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2689,58): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2689,70): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2689,82): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2690,88): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2691,88): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2694,88): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2695,88): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2698,64): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2702,76): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2702,88): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2712,65): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2712,91): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2713,52): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2713,78): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2715,52): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2716,52): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2716,65): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2717,52): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2717,65): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2717,78): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2727,54): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2728,56): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2729,58): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2730,54): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2730,65): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2731,56): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2731,67): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2732,54): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2732,67): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2742,60): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2742,79): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2743,70): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamath.h(2754,73): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamathconvert.inl(2254,71): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamathconvert.inl(4523,69): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamathconvert.inl(4577,68): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamathconvert.inl(4639,65): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamathconvert.inl(4707,64): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamathconvert.inl(4770,64): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamathconvert.inl(4832,63): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamathvector.inl(1269,45): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamathvector.inl(1269,56): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamathvector.inl(1269,67): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamathvector.inl(1269,78): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamathmisc.inl(518,43): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamathmisc.inl(519,40): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\xnamathmisc.inl(519,51): warning C4838: la conversión de 'unsigned int' en 'INT' requiere una conversión de restricción
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\ModeloRR.h(314,64): warning C4244: 'argumento': conversión de 'int' a 'FLOAT'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\ModeloRR.h(314,1): warning C4305: 'argumento': truncamiento de 'double' a 'FLOAT'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\ModeloRR.h(378,1): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\Basura.h(54,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\GUI.h(173,29): warning C4244: '=': conversión de 'float' a 'UINT'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\GUI.h(174,31): warning C4244: '=': conversión de 'float' a 'UINT'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\GUI.h(201,21): warning C4018: '<': no coinciden signed/unsigned
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\GUI.h(164,33): warning C4101: 'renderTargetViewDesc': variable local sin referencia
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\GUI.h(165,35): warning C4101: 'shaderResourceViewDesc': variable local sin referencia
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\GUI.h(299,1): warning C4305: 'argumento': truncamiento de 'double' a 'FLOAT'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\Text.h(193,29): warning C4244: '=': conversión de 'float' a 'UINT'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\Text.h(194,31): warning C4244: '=': conversión de 'float' a 'UINT'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\Text.h(184,33): warning C4101: 'renderTargetViewDesc': variable local sin referencia
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\Text.h(185,35): warning C4101: 'shaderResourceViewDesc': variable local sin referencia
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\Text.h(322,1): warning C4305: 'argumento': truncamiento de 'double' a 'FLOAT'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\Text.h(345,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\Agua.h(312,64): warning C4244: 'argumento': conversión de 'int' a 'FLOAT'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\Agua.h(312,1): warning C4305: 'argumento': truncamiento de 'double' a 'FLOAT'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\Agua.h(377,1): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(160,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(165,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(166,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(167,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(168,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(169,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(170,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(411,1): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(430,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(572,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(573,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(576,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(577,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(587,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(591,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(725,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(726,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(727,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(728,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(736,28): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(737,28): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(738,28): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(739,28): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(748,29): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(749,29): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(750,29): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(751,29): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(760,29): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(761,29): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(762,29): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\DXRR.h(763,29): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\TerrenoSkyBill.cpp(146,15): warning C4244: 'return': conversión de 'WPARAM' a 'int'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\TerrenoSkyBill.cpp(215,34): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\TerrenoSkyBill.cpp(219,73): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\TerrenoSkyBill.cpp(225,74): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\TerrenoSkyBill.cpp(230,37): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\Text.h(179): warning C4715: 'Text::InitScene': no todas las rutas de acceso de control devuelven un valor
+D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\v1dx11rr\GUI.h(159): warning C4715: 'GUI::InitScene': no todas las rutas de acceso de control devuelven un valor
+  v1dx11rr.vcxproj -> D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\x64\Debug\TerrenoSkyBill.exe

@@ -1,0 +1,34 @@
+newmtl Barrera_lambert25SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Barrera_BaseColor.png
+Ni 1.00
+newmtl sportcar_017_Body
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd sportcar.017_Body_BaseColor.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 225.00
+newmtl sportcar_017_Glass
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 0.77 0.77 0.77
+map_Kd sportcar.017_Glass_BaseColor.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 225.00
+newmtl sportcar_017_Interior
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd sportcar.017_Interior_BaseColor.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 225.00

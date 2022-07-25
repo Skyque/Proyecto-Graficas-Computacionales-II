@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\x64\Debug\TerrenoSkyBill.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\x64\Debug\Agua.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\x64\Debug\Billboard.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\x64\Debug\GUI.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\x64\Debug\Modelo.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\Documentos\UANL\Sexto Semestre\Gráficas II\PIA05\TerrenoSkyBillModGC2\x64\Debug\Text.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
